@@ -1,0 +1,1 @@
+most of the code generated here is by using LLMs..right from reading the input and loading the data into arrays. LLM usually falls flat after basic loading and solving the part-1 examplw..real input..only 
